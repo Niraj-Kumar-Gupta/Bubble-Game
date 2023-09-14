@@ -22,4 +22,4 @@ CSS \
 Javascript 
 
 ### `Website URL`
-https://roshni-mandal.github.io/Bubble-Game/
+https://niraj-kumar-gupta.github.io/Bubble-Game/
